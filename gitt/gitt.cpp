@@ -1,5 +1,5 @@
 #include <iostream>
-#include "attempt.h"
+#include "gitt.h"
 
 
 int main()
@@ -9,6 +9,6 @@ int main()
     int y = 4;
     std::cout << x + y;
     int z = 4;
-    int p;
+    int p = 8;
 }
 

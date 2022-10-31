@@ -9,5 +9,6 @@ int main()
     int y = 4;
     std::cout << x + y;
     int z = 4;
+    int p;
 }
 
